@@ -1,0 +1,3 @@
+Title: Still water
+Author: El Gringo
+Description: Allows admins to toggle water buoyancy and gravity.

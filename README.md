@@ -1,4 +1,4 @@
-# stillwater
+# Still Water
 Build underwater easier in Blockland!
 
 ## What does it do?
